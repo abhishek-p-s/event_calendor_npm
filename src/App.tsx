@@ -1,6 +1,6 @@
 import { Fragment } from 'react'
 import './App.css'
-import CustomCalendor from './CustomCalendor'
+import { CustomCalendor } from '.';
 
 const sampleEvents = [
   {

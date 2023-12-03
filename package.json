@@ -1,8 +1,12 @@
 {
   "name": "event_calendor",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhishek-p-s/event_calendor_npm.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
